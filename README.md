@@ -13,6 +13,9 @@ I'm a passionate and curious tech enthusiast focused on **Data Analytics**, and 
 
 🛠 I’m continuously learning and building projects that reflect industry-level skills and problem-solving capabilities.
 
+## 👋 Portfolio
+Check out my personal portfolio website: [ajaytiwari94.github.io](https://ajaytiwari94.github.io/)
+
 ---
 
 ## 🧰 Tech Stack
