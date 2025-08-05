@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Ajay Tiwari
 
  Final Year B.Tech Student | Aspiring Data Analyst | AI & Deep Learning Enthusiast  
- Noida Institute of Engineering and Technology | 📅 Batch of 2026  
+ Noida Institute of Engineering and Technology | Batch of 2026  
 
 ---
 
