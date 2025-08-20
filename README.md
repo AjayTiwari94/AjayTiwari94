@@ -14,7 +14,8 @@ Whether it’s building intelligent systems using **YOLOv8**, exploring human be
 I’m continuously learning and building projects that reflect industry-level skills and problem-solving capabilities.
 
 ## Portfolio
-Check out my personal portfolio website: [ajaytiwari94.github.io](https://ajaytiwari94.github.io/)
+- Check out my personal portfolio website: [ajaytiwari94.github.io](https://ajaytiwari94.github.io/)
+- [ajay-tiwari94-portfolio.vercel.app/](https://ajay-tiwari94-portfolio.vercel.app/)
 
 ---
 
