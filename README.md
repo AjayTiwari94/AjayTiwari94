@@ -16,50 +16,71 @@ Noida Institute of Engineering & Technology | Batch of 2026
 ---
 
 ## AI & Data-Driven Projects  
+## 🩺 AI & Data-Driven Projects  
 
-### AI Medical Diagnostic Agent  
-- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent)  
-- [GitHub Repository](https://github.com/AjayTiwari94/Medical-AI-Agents)  
+<table>
+<tr>
+<td width="50%">
+  
+### 🚀 AI Medical Diagnostic Agent  
+[🔗 Live Demo](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent) | [💻 GitHub](https://github.com/AjayTiwari94/Medical-AI-Agents)  
 
-**Highlights:**  
 - Built with **Google Gemini API + Streamlit**  
-- Symptom-based diagnosis and **PDF report upload**  
-- Evaluation dashboard + **SQLite3 database logging**  
-- Research prototype for **AI-assisted healthcare**  
+- Symptom-based diagnosis + **PDF report upload**  
+- Evaluation dashboard + **SQLite3 logging**  
+
+</td>
+<td width="50%">
+
+### 🩻 AI Medical Imaging Diagnosis System  
+[🔗 Live Demo](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System) | [💻 GitHub](https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis)  
+
+- CNN model for **Pneumonia detection using X-rays**  
+- Built with **TensorFlow + Streamlit**  
+- Hosted on **Hugging Face Spaces**  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### AI Medical Imaging Diagnosis System  
-- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System)  
-- [GitHub Repository](https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis)  
+<table>
+<tr>
+<td width="50%">
 
-**Highlights:**  
-- CNN model for **Pneumonia detection using X-ray images**  
-- Built with **TensorFlow**  
-- Interactive Streamlit app hosted on **Hugging Face Spaces**  
+### 🚦 Traffic Sign Detection (YOLOv8 + LISA Dataset)  
+- Real-time **traffic sign detection**  
+- Trained on **LISA dataset**  
+- High accuracy with YOLOv8  
 
----
+</td>
+<td width="50%">
 
-### Traffic Sign Detection System (YOLOv8 + LISA Dataset)  
-- Real-time detection of **traffic signs** using YOLOv8  
-- Complete pipeline: preprocessing → training → evaluation → deployment  
-- Achieved **high accuracy** on LISA dataset  
+### 🔐 MPIN Strength & Pattern Analysis  
+- Studied **4-digit & 6-digit PINs**  
+- Built **validation logic** for secure PINs  
+- Fintech & banking security research  
 
----
-
-### MPIN Strength & Pattern Analysis  
-- Studied **4-digit & 6-digit PIN usage trends**  
-- Built **validation logic** for improved PIN security  
-- Useful for **banking & fintech security research**  
+</td>
+</tr>
+</table>
 
 ---
 
-### Mental Health Data Analytics  
-- Visualized survey datasets with **Power BI + Python**  
-- Created **interactive dashboards** for actionable insights  
-- Focused on **mental health trends & indicators**  
+<table>
+<tr>
+<td width="100%">
 
----
+### 🧠 Mental Health Data Analytics  
+- **Power BI + Python dashboards**  
+- Survey dataset visualization  
+- Insights into **mental health trends**  
+
+</td>
+</tr>
+</table>
+
 
 ## Tech Stack  
 
