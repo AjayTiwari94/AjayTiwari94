@@ -5,82 +5,63 @@ Noida Institute of Engineering & Technology | Batch of 2026
 
 ---
 
-## 🔗 Quick Links  
+## Quick Links  
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://ajaytiwari94.github.io)  
-[![Vercel](https://img.shields.io/badge/Vercel-Portfolio-black)](https://ajay-tiwari94-portfolio.vercel.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-AjayTiwari94-lightgrey?logo=github)](https://github.com/AjayTiwari94)  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface)](https://huggingface.co/AjayTiwari94)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ajay-tiwari94)  
+<p align="center">
+  <a href="https://ajaytiwari94.github.io"><img src="https://img.shields.io/badge/🌐-Portfolio-blue"></a>
+  <a href="https://ajay-tiwari94-portfolio.vercel.app"><img src="https://img.shields.io/badge/Vercel-Portfolio-black"></a>
+  <a href="https://github.com/AjayTiwari94"><img src="https://img.shields.io/badge/GitHub-AjayTiwari94-lightgrey?logo=github"></a>
+  <a href="https://huggingface.co/AjayTiwari94"><img src="https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface"></a>
+  <a href="https://linkedin.com/in/ajay-tiwari94"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+</p>
 
----
+
 
 ## AI & Data-Driven Projects  
-## 🩺 AI & Data-Driven Projects  
 
-<table>
-<tr>
-<td width="50%">
-  
-### 🚀 AI Medical Diagnostic Agent  
-[🔗 Live Demo](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent) | [💻 GitHub](https://github.com/AjayTiwari94/Medical-AI-Agents)  
+### AI Medical Diagnostic Agent  
+- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent)  
+- [GitHub Repository](https://github.com/AjayTiwari94/Medical-AI-Agents)  
 
+**Highlights:**  
 - Built with **Google Gemini API + Streamlit**  
-- Symptom-based diagnosis + **PDF report upload**  
-- Evaluation dashboard + **SQLite3 logging**  
-
-</td>
-<td width="50%">
-
-### 🩻 AI Medical Imaging Diagnosis System  
-[🔗 Live Demo](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System) | [💻 GitHub](https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis)  
-
-- CNN model for **Pneumonia detection using X-rays**  
-- Built with **TensorFlow + Streamlit**  
-- Hosted on **Hugging Face Spaces**  
-
-</td>
-</tr>
-</table>
+- Symptom-based diagnosis and **PDF report upload**  
+- Evaluation dashboard + **SQLite3 database logging**  
+- Research prototype for **AI-assisted healthcare**  
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+### AI Medical Imaging Diagnosis System  
+- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System)  
+- [GitHub Repository](https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis)  
 
-### 🚦 Traffic Sign Detection (YOLOv8 + LISA Dataset)  
-- Real-time **traffic sign detection**  
-- Trained on **LISA dataset**  
-- High accuracy with YOLOv8  
-
-</td>
-<td width="50%">
-
-### 🔐 MPIN Strength & Pattern Analysis  
-- Studied **4-digit & 6-digit PINs**  
-- Built **validation logic** for secure PINs  
-- Fintech & banking security research  
-
-</td>
-</tr>
-</table>
+**Highlights:**  
+- CNN model for **Pneumonia detection using X-ray images**  
+- Built with **TensorFlow**  
+- Interactive Streamlit app hosted on **Hugging Face Spaces**  
 
 ---
 
-<table>
-<tr>
-<td width="100%">
+### Traffic Sign Detection System (YOLOv8 + LISA Dataset)  
+- Real-time detection of **traffic signs** using YOLOv8  
+- Complete pipeline: preprocessing → training → evaluation → deployment  
+- Achieved **high accuracy** on LISA dataset  
 
-### 🧠 Mental Health Data Analytics  
-- **Power BI + Python dashboards**  
-- Survey dataset visualization  
-- Insights into **mental health trends**  
+---
 
-</td>
-</tr>
-</table>
+### MPIN Strength & Pattern Analysis  
+- Studied **4-digit & 6-digit PIN usage trends**  
+- Built **validation logic** for improved PIN security  
+- Useful for **banking & fintech security research**  
 
+---
+
+### Mental Health Data Analytics  
+- Visualized survey datasets with **Power BI + Python**  
+- Created **interactive dashboards** for actionable insights  
+- Focused on **mental health trends & indicators**  
+
+---
 
 ## Tech Stack  
 
@@ -101,9 +82,12 @@ Noida Institute of Engineering & Technology | Batch of 2026
 
 ## GitHub Stats  
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayTiwari94&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayTiwari94&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjayTiwari94&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayTiwari94&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayTiwari94&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayTiwari94&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
 
 ---
 
@@ -130,9 +114,9 @@ Here are some snapshots of my projects in action (GIFs/screenshots recommended):
 
 ## Let’s Connect  
 
-- Email: **studentajay94@gmail.com**  
-- Location: **India**  
-- [GitHub](https://github.com/AjayTiwari94) | [LinkedIn](https://linkedin.com/in/ajay-tiwari94) | [Hugging Face](https://huggingface.co/AjayTiwari94)  
+- 📧 Email: **studentajay94@gmail.com**  
+- 🌍 Location: **India**  
+- 🔗 [GitHub](https://github.com/AjayTiwari94) | [LinkedIn](https://linkedin.com/in/ajay-tiwari94) | [Hugging Face](https://huggingface.co/AjayTiwari94)  
 
 ---
 
