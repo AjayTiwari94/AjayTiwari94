@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Ajay Tiwari  
 
-Final Year B.Tech CSE (AI) | Aspiring Data Analyst | AI & Deep Learning Enthusiast  
+Final Year B.Tech CSE (AI) Student | Aspiring Data Analyst | AI & Deep Learning Enthusiast  
 Noida Institute of Engineering & Technology | Batch of 2026  
 
 ---
@@ -20,8 +20,8 @@ Noida Institute of Engineering & Technology | Batch of 2026
 ## AI & Data-Driven Projects  
 
 ### AI Medical Diagnostic Agent  
-- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent)  
-- [GitHub Repository](https://github.com/AjayTiwari94/Medical-AI-Agents)  
+- [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis)  
+- [GitHub Repository](https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis)  
 
 **Highlights:**  
 - Built with **Google Gemini API + Streamlit**  
