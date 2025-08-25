@@ -96,10 +96,8 @@ Noida Institute of Engineering & Technology | Batch of 2026
 Here are some snapshots of my projects in action (GIFs/screenshots recommended):  
 
 - **AI Medical Imaging System** → X-ray upload & pneumonia detection results  
-- **AI Diagnostic Agent** → Conversational interface + evaluation dashboard  
+- **Multi-AI Agent Diagnostic Agent** → Ask for reports, symptoms and medical assistance.
 - **Traffic Sign Detection** → YOLOv8 detecting traffic signs in real-time  
-
-*(Add demo GIFs/screenshots here when possible for maximum impact)*  
 
 ---
 
