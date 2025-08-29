@@ -19,7 +19,7 @@ Noida Institute of Engineering & Technology | Batch of 2026
 
 ## AI & Data-Driven Projects  
 
-### AI Medical Diagnostic Agent  
+### Multi-AI Medical Diagnostic System
 - [Live Demo on Hugging Face](https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis)  
 - [GitHub Repository](https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis)  
 
@@ -93,7 +93,7 @@ Noida Institute of Engineering & Technology | Batch of 2026
 
 ## Featured Demos  
 
-Here are some snapshots of my projects in action (GIFs/screenshots recommended):  
+Here are some best of my projects in action:  
 
 - **AI Medical Imaging System** → X-ray upload & pneumonia detection results  
 - **Multi-AI Agent Diagnostic Agent** → Ask for reports, symptoms and medical assistance.
