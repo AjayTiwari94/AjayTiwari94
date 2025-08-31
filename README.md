@@ -3,6 +3,8 @@
 Final Year B.Tech CSE (AI) Student | Aspiring Data Analyst | AI & Machine Learning Enthusiast  
 Noida Institute of Engineering & Technology | 2022-26 Batch
 
+' `#RRGGBB` Currently accepting Internship opportunities for the Data Analyst or AI/ML Engineer roles...'
+
 ---
 
 ## Quick Links  
