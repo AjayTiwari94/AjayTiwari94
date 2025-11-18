@@ -113,7 +113,7 @@ Here are some best of my projects in action:
 
 ## Let’s Connect  
 
-- 📧 Email: **studentajay94@gmail.com**  
+- 📧 Email: **tiwariajay110125@gmail.com**  
 - 🌍 Location: **India**  
 - 🔗 [GitHub](https://github.com/AjayTiwari94) | [LinkedIn](https://linkedin.com/in/ajay-tiwari94) | [Hugging Face](https://huggingface.co/AjayTiwari94)  
 
