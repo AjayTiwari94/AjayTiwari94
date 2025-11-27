@@ -5,9 +5,7 @@
 
 ---
 
-<h3 align="center" style="color:yellow;">
-Currently accepting Internship opportunities for Data Analyst or AI/ML Engineer roles
-</h3>
+$${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
 
 
 ---
@@ -26,42 +24,34 @@ Currently accepting Internship opportunities for Data Analyst or AI/ML Engineer 
 
 # Data Analysis Driven Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      
-      <!-- Left Column -->
-      <h3>Data_Analysis-MySQL</h3>
-      <ul>
-        <li>Complex SQL queries</li>
-        <li>Joins, CTEs, Window Functions</li>
-        <li>Business analytics insights</li>
-      </ul>
+## ** Data_Analysis-MySQL**
+**Highlights:**
+- Complex SQL queries for analytics  
+- Joins, CTEs, Window Functions  
+- Schema understanding + ER diagrams  
+- Real-world business insights  
 
-      <h3>Data_Analysis-Excel</h3>
-      <ul>
-        <li>Data cleaning & transformation</li>
-        <li>Pivot tables & Power Query</li>
-        <li>Interactive dashboards</li>
-      </ul>
+---
 
-    </td>
+## ** Data_Analysis-Excel**
+**Highlights:**
+- Data cleaning, transformation & standardization  
+- Pivot Tables, XLOOKUP, Power Query  
+- KPI dashboards & professional reporting  
+- Automated workflows for faster insights  
 
-    <td width="50%">
-      
-      <!-- Right Column -->
-      <h3>Data_Analysis-Tableau</h3>
-      <ul>
-        <li>30M+ rows analyzed</li>
-        <li>Interactive dashboards</li>
-        <li>Property type & price insights</li>
-      </ul>
+---
 
-    </td>
-  </tr>
-</table>
-
-
+## ** Data_Analysis-Tableau**
+**Highlights:**
+- Worked with **30M+ rows (3 Crore)**  
+- Joined Listings, Calendar & Reviews datasets  
+- Dashboards include:  
+  - Property availability  
+  - Price per bedroom  
+  - ZIP-code-based heatmaps  
+  - Yearly price trends  
+- Rich interactivity with actions & filters
 ---
 
 # AI & Machine Learning Projects
