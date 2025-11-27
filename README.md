@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm **Ajay Tiwari**
-### **“Data Analyst | Python | SQL | Machine Learning | AI/ML”**
-### **“Noida Institute of Engineering & Technology | Batch 2022–26”**
+### **"Data Analyst | Python | SQL | Machine Learning | AI/ML"**
+### **"Noida Institute of Engineering & Technology | Batch 2022–26"**
 ---
 
 $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
@@ -143,4 +143,4 @@ Git • GitHub • VS Code • Google Colab
 
 ---
 
-### ✨ *“Code with purpose, analyze with curiosity, build with impact.”*  
+### ✨ *"Code with purpose, analyze with curiosity, build with impact."*  
