@@ -5,9 +5,10 @@
 
 ---
 
-<span style="font-size:22px; color:yellow;">
-Currently accepting Internship opportunities for the Data Analyst or AI/ML Engineer roles
-</span>
+<h3 align="center" style="color:yellow;">
+Currently accepting Internship opportunities for Data Analyst or AI/ML Engineer roles
+</h3>
+
 
 ---
 
