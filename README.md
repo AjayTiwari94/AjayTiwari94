@@ -5,7 +5,9 @@
 
 ---
 
-$${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
+<span style="font-size:22px; color:yellow;">
+Currently accepting Internship opportunities for the Data Analyst or AI/ML Engineer roles
+</span>
 
 ---
 
