@@ -5,8 +5,7 @@
 
 ---
 
-### **Currently accepting Internship opportunities**
-$${\color{yellow}for\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
+$${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
 
 ---
 
