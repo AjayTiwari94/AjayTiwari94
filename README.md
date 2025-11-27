@@ -1,13 +1,11 @@
 # 👋 Hello World, I'm **Ajay Tiwari**
-### **"Data Analyst | Python | SQL | Machine Learning | AI/ML"**
-### **"Noida Institute of Engineering & Technology | Batch 2022–26"**
----
+Data Analyst | Python | SQL | Machine Learning | AI/ML
+Noida Institute of Engineering & Technology | Batch 2022–26
 
 $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
-
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 <p align="center">
   <a href="https://ajaytiwari94.github.io"><img src="https://img.shields.io/badge/🌐-Portfolio-blue"></a>
@@ -19,9 +17,9 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-# Data Analysis Driven Projects
+## Data Analysis Driven Projects
 
-## ** Data_Analysis-MySQL**
+### Data_Analysis-MySQL
 **Highlights:**
 - Complex SQL queries for analytics  
 - Joins, CTEs, Window Functions  
@@ -30,7 +28,7 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-## ** Data_Analysis-Excel**
+### Data_Analysis-Excel
 **Highlights:**
 - Data cleaning, transformation & standardization  
 - Pivot Tables, XLOOKUP, Power Query  
@@ -39,7 +37,7 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-## ** Data_Analysis-Tableau**
+### Data_Analysis-Tableau
 **Highlights:**
 - Worked with **30M+ rows (3 Crore)**  
 - Joined Listings, Calendar & Reviews datasets  
@@ -51,9 +49,9 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 - Rich interactivity with actions & filters
 ---
 
-# AI & Machine Learning Projects
+## AI & Machine Learning Projects
 
-## **AI Medical Imaging Diagnosis System**
+### AI Medical Imaging Diagnosis System
 - Live Demo: https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System  
 - Code: https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis  
 **Highlights:**
@@ -63,7 +61,7 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-## **Multi-AI Agent Medical Diagnostic System**
+### Multi-AI Agent Medical Diagnostic System
 - Live Demo: https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
 - Code: https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
 **Highlights:**
@@ -73,7 +71,7 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-## **Traffic Sign Detection (YOLOv8 + LISA Dataset)**
+### Traffic Sign Detection (YOLOv8 + LISA Dataset)
 **Highlights:**
 - Trained YOLOv8 model  
 - Real-time traffic sign detection  
@@ -81,38 +79,38 @@ $${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data
 
 ---
 
-## **MPIN Strength & Pattern Analysis**
+### MPIN Strength & Pattern Analysis
 - 4-digit & 6-digit PIN trend analysis  
 - Security pattern detection  
 - Fintech-relevant insights  
 
 ---
 
-## **Mental Health Data Analytics**
+### Mental Health Data Analytics
 - Dataset visualization using Power BI & Python  
 - Interactive dashboards  
 - Insights into behavior & mental wellness factors  
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### **Languages & Tools**
+**Languages & Tools**
 Python • Java • SQL  
 Pandas • NumPy • Matplotlib • Seaborn  
 Power BI • Excel • Tableau  
 
-### **ML / AI Frameworks**
+**ML / AI Frameworks**
 Scikit-learn • TensorFlow • YOLOv8  
 OpenCV • Hugging Face • Gemini API  
 
-### **Deployment**
+**Deployment**
 Streamlit • Hugging Face Spaces • Vercel  
 Git • GitHub • VS Code • Google Colab  
 
 ---
 
-# 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AjayTiwari94&show_icons=true&theme=radical" height="180"/>
@@ -122,7 +120,7 @@ Git • GitHub • VS Code • Google Colab
 
 ---
 
-# Featured Demos
+## Featured Demos
 - AI Medical Imaging System → X-ray → Pneumonia detection  
 - Multi-AI Diagnostic Agent → Symptoms + Reports  
 
@@ -143,4 +141,4 @@ Git • GitHub • VS Code • Google Colab
 
 ---
 
-### ✨ *"Code with purpose, analyze with curiosity, build with impact."*  
+✨ *"Code with purpose, analyze with curiosity, build with impact."*  
