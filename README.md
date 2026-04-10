@@ -1,4 +1,4 @@
-# Hello World, I'm Ajay Tiwari ✨
+# Hello World, I'm Ajay Tiwari
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
 Noida Institute of Engineering & Technology | Batch 2022–26  
@@ -9,9 +9,17 @@ Currently seeking Data Analyst / Business Analyst opportunities
 
 ## Quick Links
 
-Portfolio: https://ajay-tiwari94-portfolio.vercel.app  
-GitHub: https://github.com/AjayTiwari94  
-LinkedIn: https://linkedin.com/in/ajay-tiwari-849725284  
+<p align="center">
+  <a href="https://ajay-tiwari94-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue">
+  </a>
+  <a href="https://github.com/AjayTiwari94">
+    <img src="https://img.shields.io/badge/GitHub-AjayTiwari94-lightgrey?logo=github">
+  </a>
+  <a href="https://linkedin.com/in/ajay-tiwari-849725284">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+</p>
 
 ---
 
@@ -84,9 +92,16 @@ Scikit-learn | TensorFlow | OpenCV | Hugging Face
 
 ## Contact
 Email: tiwariajay110125@gmail.com  
-LinkedIn: https://linkedin.com/in/ajay-tiwari-849725284  
-GitHub: https://github.com/AjayTiwari94  
+
+<p align="center">
+  <a href="https://linkedin.com/in/ajay-tiwari-849725284">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/AjayTiwari94">
+    <img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github">
+  </a>
+</p>
 
 ---
 
-"Analyze data, drive decisions, create impact ✨." 
+"Analyze data, drive decisions, create impact."
