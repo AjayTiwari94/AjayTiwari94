@@ -1,4 +1,4 @@
-# Hello World, I'm Ajay Tiwari
+# Hello World, I'm Ajay Tiwari ✨
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
 Noida Institute of Engineering & Technology | Batch 2022–26  
@@ -104,4 +104,4 @@ Email: tiwariajay110125@gmail.com
 
 ---
 
-"Analyze data, drive decisions, create impact."
+✨ *"Code with purpose, analyze with curiosity, build with impact."*
