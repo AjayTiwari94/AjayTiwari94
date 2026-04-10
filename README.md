@@ -1,145 +1,92 @@
-# 👋 Hello World, I'm **Ajay Tiwari**
-Data Analyst | Python | SQL | Machine Learning | AI/ML
+# Hello World, I'm Ajay Tiwari ✨
+Data Analyst | Business Analyst | SQL | Power BI | Python
 
-Noida Institute of Engineering & Technology | Batch 2022–26
+Noida Institute of Engineering & Technology | Batch 2022–26  
 
-$${\color{yellow}Currently\ accepting\ Internship\ opportunities\ for\ the\ Data\ Analyst\ or\ AI/ML\ Engineer\ roles}$$
+Currently seeking Data Analyst / Business Analyst opportunities
+
 ---
 
 ## Quick Links
 
-<p align="center">
-  <a href="https://ajaytiwari94.github.io"><img src="https://img.shields.io/badge/🌐-Portfolio-blue"></a>
-  <a href="https://ajay-tiwari94-portfolio.vercel.app"><img src="https://img.shields.io/badge/Vercel-Portfolio-black"></a>
-  <a href="https://github.com/AjayTiwari94"><img src="https://img.shields.io/badge/GitHub-AjayTiwari94-lightgrey?logo=github"></a>
-  <a href="https://huggingface.co/AjayTiwari94"><img src="https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface"></a>
-  <a href="https://linkedin.com/in/ajay-tiwari94"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-</p>
+Portfolio: https://ajay-tiwari94-portfolio.vercel.app  
+GitHub: https://github.com/AjayTiwari94  
+LinkedIn: https://linkedin.com/in/ajay-tiwari-849725284  
 
 ---
 
-## Data Analysis Driven Projects
+# Data & Business Analytics Projects
 
-### Data_Analysis-MySQL
-**Highlights:**
-- Complex SQL queries for analytics  
-- Joins, CTEs, Window Functions  
-- Schema understanding + ER diagrams  
-- Real-world business insights  
-
----
-
-### Data_Analysis-Excel
-**Highlights:**
-- Data cleaning, transformation & standardization  
-- Pivot Tables, XLOOKUP, Power Query  
-- KPI dashboards & professional reporting  
-- Automated workflows for faster insights  
+## Banking Transaction & Customer Risk Analysis *
+- Analyzed 60K+ transactions to understand customer behavior and support business decisions  
+- Identified that 18% of customers contributed ~62% of total value  
+- Detected 900+ high-value transactions, with ~7% irregular patterns  
+- Built a Power BI dashboard tracking trends, segments, and risk indicators  
 
 ---
 
-### Data_Analysis-Tableau
-**Highlights:**
-- Worked with **30M+ rows (3 Crore)**  
-- Joined Listings, Calendar & Reviews datasets  
-- Dashboards include:  
-  - Property availability  
-  - Price per bedroom  
-  - ZIP-code-based heatmaps  
-  - Yearly price trends  
-- Rich interactivity with actions & filters
----
-
-## AI & Machine Learning Projects
-
-### AI Medical Imaging Diagnosis System
-- Live Demo: https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System  
-- Code: https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis  
-**Highlights:**
-- CNN for pneumonia detection  
-- TensorFlow + OpenCV  
-- Streamlit-based medical interface  
+## Layoff Trends & Workforce Analysis
+- Analyzed 2,500+ records to identify workforce trends and business insights  
+- Cleaned 500+ duplicates and resolved 8+ inconsistencies  
+- Used SQL (CTEs, Joins, Window Functions) to uncover 10+ trends  
 
 ---
 
-### Multi-AI Agent Medical Diagnostic System
-- Live Demo: https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
-- Code: https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
-**Highlights:**
-- Google Gemini API  
-- Symptom diagnosis + PDF report reading  
-- SQLite logging + medical workflow automation  
+## Data Analysis Projects (SQL / Excel / Tableau)
+
+### SQL Analytics
+- Complex queries using Joins, CTEs, Window Functions  
+- Extracted business insights from real-world datasets  
+
+### Excel Analytics
+- Data cleaning, transformation, and reporting  
+- KPI dashboards using Pivot Tables & Power Query  
+
+### Tableau Dashboarding
+- Worked with large datasets (millions of rows)  
+- Built dashboards for trend analysis and decision-making  
 
 ---
 
-### Traffic Sign Detection (YOLOv8 + LISA Dataset)
-**Highlights:**
-- Trained YOLOv8 model  
-- Real-time traffic sign detection  
-- Complete ML pipeline (preprocess → train → evaluate → deploy)  
+# AI & Machine Learning Projects
+
+## AI Medical Imaging Diagnosis System
+- CNN-based pneumonia detection  
+- Built using TensorFlow + OpenCV + Streamlit  
+
+## Multi-AI Agent Medical Diagnostic System
+- Automated symptom analysis using Gemini API  
+- Integrated SQLite logging and workflow automation  
 
 ---
 
-### MPIN Strength & Pattern Analysis
-- 4-digit & 6-digit PIN trend analysis  
-- Security pattern detection  
-- Fintech-relevant insights  
+# Tech Stack
 
----
+Data Analytics:
+SQL | Excel | Power BI | Tableau  
+Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
-### Mental Health Data Analytics
-- Dataset visualization using Power BI & Python  
-- Interactive dashboards  
-- Insights into behavior & mental wellness factors  
+Business Analysis:
+KPI Analysis | Trend Analysis | Customer Segmentation  
 
----
-
-## Tech Stack
-
-**Languages & Tools**
-Python • Java • SQL  
-Pandas • NumPy • Matplotlib • Seaborn  
-Power BI • Excel • Tableau  
-
-**ML / AI Frameworks**
-Scikit-learn • TensorFlow • YOLOv8  
-OpenCV • Hugging Face • Gemini API  
-
-**Deployment**
-Streamlit • Hugging Face Spaces • Vercel  
-Git • GitHub • VS Code • Google Colab  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayTiwari94&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayTiwari94&layout=compact&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayTiwari94&theme=radical" height="180"/>
-</p>
-
----
-
-## Featured Demos
-- AI Medical Imaging System → X-ray → Pneumonia detection  
-- Multi-AI Diagnostic Agent → Symptoms + Reports  
+AI / ML:
+Scikit-learn | TensorFlow | OpenCV | Hugging Face  
 
 ---
 
 # What’s Next?
-- Expanding **AI + Data Analytics portfolio**  
-- Building **Generative AI Applications**  
-- Preparing for **Data Analyst / AI Engineer roles**  
-- Open for **collaborations**  
+- Building more real-world business analytics projects  
+- Strengthening SQL and dashboarding skills  
+- Exploring data-driven decision-making use cases  
+- Open to Data Analyst / Business Analyst roles  
 
 ---
 
-## Let’s Connect 
-- 📧 Email: **tiwariajay110125@gmail.com**
-- 🌍 Location: **India**
-- 🔗 [GitHub](https://github.com/AjayTiwari94) | [LinkedIn](https://linkedin.com/in/ajay-tiwari94) | [Hugging Face](https://huggingface.co/AjayTiwari94)
+## Contact
+Email: tiwariajay110125@gmail.com  
+LinkedIn: https://linkedin.com/in/ajay-tiwari-849725284  
+GitHub: https://github.com/AjayTiwari94  
 
 ---
 
-✨ *"Code with purpose, analyze with curiosity, build with impact."*  
+"Analyze data, drive decisions, create impact ✨." 
