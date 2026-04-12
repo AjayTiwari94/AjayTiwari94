@@ -1,10 +1,11 @@
-# Hello World, I'm Ajay Tiwari ✨
+# Hello World, I'm Ajay Tiwari
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
 Noida Institute of Engineering & Technology | Batch 2022–26  
 
----
+```bash
 Currently seeking Data Analyst / Business Analyst opportunities
+```
 
 ## Quick Links
 
@@ -31,58 +32,68 @@ Currently seeking Data Analyst / Business Analyst opportunities
 - Found that fraud was concentrated in TRANSFER and CASH_OUT transactions, with TRANSFER having the highest fraud rate (~0.94%)  
 - Observed that high-value transactions had higher fraud probability (~0.20%) than low-value (~0.17%)  
 - Built a Power BI dashboard to analyze transaction trends and fraud patterns  
+
 ---
 
 ## Layoff Trends & Workforce Analysis
+
 - Analyzed 2,500+ records to identify workforce trends and business insights  
 - Cleaned 500+ duplicates and resolved 8+ inconsistencies  
-- Used SQL (CTEs, Joins, Window Functions) to uncover 10+ trends  
+- Used SQL (CTEs, Joins, Window Functions) to uncover multiple trends  
 
 ---
 
-## Data Analysis Projects (SQL / Excel / Tableau)
+## Data Analysis (SQL / Excel / Tableau)
 
-### SQL Analytics
-- Complex queries using Joins, CTEs, Window Functions  
-- Extracted business insights from real-world datasets  
-
-### Excel Analytics
-- Data cleaning, transformation, and reporting  
-- KPI dashboards using Pivot Tables & Power Query  
-
-### Tableau Dashboarding
-- Worked with large datasets (millions of rows)  
-- Built dashboards for trend analysis and decision-making  
+- Wrote complex SQL queries using Joins, CTEs, and Window Functions  
+- Performed data cleaning, transformation, and reporting in Excel  
+- Built dashboards in Tableau for trend analysis and decision-making  
 
 ---
 
-# AI & Machine Learning Projects
+# AI & Machine Learning (Additional Projects)
 
 ## AI Medical Imaging Diagnosis System
-- CNN-based pneumonia detection  
-- Built using TensorFlow + OpenCV + Streamlit  
+- **Live Demo:** https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System  
+- **Code:** https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis  
+- CNN-based pneumonia detection using TensorFlow and OpenCV  
+- Built a Streamlit-based medical interface  
+
+---
 
 ## Multi-AI Agent Medical Diagnostic System
-- Automated symptom analysis using Gemini API  
-- Integrated SQLite logging and workflow automation  
+- **Live Demo:** https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
+- **Code:** https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
+- Integrated Google Gemini API for symptom analysis  
+- Implemented PDF report reading and SQLite-based logging  
 
 ---
 
 # Tech Stack
 
-Data Analytics:
+**Data Analytics**  
 SQL | Excel | Power BI | Tableau  
 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
-Business Analysis:
+**Business Analysis**  
 KPI Analysis | Trend Analysis | Customer Segmentation  
 
-AI / ML:
+**AI / ML**  
 Scikit-learn | TensorFlow | OpenCV | Hugging Face  
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayTiwari94&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayTiwari94&layout=compact" height="160"/>
+</p>
+
+---
+
 # What’s Next?
+
 - Building more real-world business analytics projects  
 - Strengthening SQL and dashboarding skills  
 - Exploring data-driven decision-making use cases  
@@ -91,6 +102,7 @@ Scikit-learn | TensorFlow | OpenCV | Hugging Face
 ---
 
 ## Contact
+
 Email: tiwariajay110125@gmail.com  
 
 <p align="center">
@@ -104,4 +116,4 @@ Email: tiwariajay110125@gmail.com
 
 ---
 
-✨ *"Code with purpose, analyze with curiosity, build with impact."*
+"Analyze data, drive decisions, create impact."
