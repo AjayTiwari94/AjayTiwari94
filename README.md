@@ -2,8 +2,10 @@
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
 Noida Institute of Engineering & Technology | Batch 2022–26  
+
 ---
 Currently seeking Data Analyst / Business Analyst opportunities
+
 ---
 
 ## Quick Links
