@@ -51,19 +51,19 @@ Noida Institute of Engineering & Technology | Batch 2022–26
 
 # AI & Machine Learning (Additional Projects)
 
-## AI Medical Imaging Diagnosis System
-- **Live Demo:** https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System  
-- **Code:** https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis  
-- CNN-based pneumonia detection using TensorFlow and OpenCV  
-- Built a Streamlit-based medical interface  
-
----
-
 ## Multi-AI Agent Medical Diagnostic System
 - **Live Demo:** https://huggingface.co/spaces/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
 - **Code:** https://github.com/AjayTiwari94/Multi-AI-Agent-Medical-Diagnosis  
 - Integrated Google Gemini API for symptom analysis  
 - Implemented PDF report reading and SQLite-based logging  
+
+---
+
+## AI Medical Imaging Diagnosis System
+- **Live Demo:** https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Imaging-Diagnosis-System  
+- **Code:** https://github.com/AjayTiwari94/Medical-Imaging-Diagnosis  
+- CNN-based pneumonia detection using TensorFlow and OpenCV  
+- Built a Streamlit-based medical interface  
 
 ---
 
@@ -113,5 +113,4 @@ Email: tiwariajay110125@gmail.com
 </p>
 
 ---
-
-"Analyze data, drive decisions, create impact."
+✨ *"Code with purpose, analyze with curiosity, build with impact."*
