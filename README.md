@@ -2,9 +2,8 @@
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
 Noida Institute of Engineering & Technology | Batch 2022–26  
-
-$${\color{yellow}Currently\ seeking\ Data\ Analyst / \ Business \ Analyst\ opportunities}$$
-
+---
+Currently seeking Data Analyst / Business Analyst opportunities
 ---
 
 ## Quick Links
@@ -26,11 +25,12 @@ $${\color{yellow}Currently\ seeking\ Data\ Analyst / \ Business \ Analyst\ oppor
 # Data & Business Analytics Projects
 
 ## Banking Transaction & Customer Risk Analysis *
-- Analyzed 60K+ transactions to understand customer behavior and support business decisions  
-- Identified that 18% of customers contributed ~62% of total value  
-- Detected 900+ high-value transactions, with ~7% irregular patterns  
-- Built a Power BI dashboard tracking trends, segments, and risk indicators  
 
+- Analyzed 55K+ transactions to understand customer behavior and support business decisions  
+- Identified that ~18% of customers contributed ~62% of total transaction value  
+- Found that fraud was concentrated in TRANSFER and CASH_OUT transactions, with TRANSFER having the highest fraud rate (~0.94%)  
+- Observed that high-value transactions had higher fraud probability (~0.20%) than low-value (~0.17%)  
+- Built a Power BI dashboard to analyze transaction trends and fraud patterns  
 ---
 
 ## Layoff Trends & Workforce Analysis
