@@ -1,7 +1,7 @@
 # Hello World, I'm Ajay Tiwari
 Data Analyst | Business Analyst | SQL | Power BI | Python
 
-Noida Institute of Engineering & Technology | Batch 2022–26  
+*B.Tech- Computer Science and Engineering (Artificial Interlligence)*- Noida Institute of Engineering & Technology | Batch 2022–26  
 
 - Currently seeking Data Analyst / Business Analyst opportunities
 
