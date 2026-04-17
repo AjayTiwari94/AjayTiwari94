@@ -37,7 +37,7 @@ Data Analyst | Business Analyst | SQL | Power BI | Python
 
 - Analyzed 2,500+ records to identify workforce trends and business insights  
 - Cleaned 500+ duplicates and resolved 8+ inconsistencies  
-- Used SQL (CTEs, Joins, Window Functions) to uncover multiple trends  
+- Used SQL queries (CTEs, Joins, Window Functions) to uncover multiple trends  
 
 ---
 
