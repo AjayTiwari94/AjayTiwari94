@@ -8,8 +8,8 @@
 <br/>
 
 <p>
-  <strong>B.Tech — Computer Science & Engineering (Artificial Intelligence)</strong><br>
-  Noida Institute of Engineering & Technology &nbsp;|&nbsp; Batch 2022–26 &nbsp;|&nbsp; CGPA: 8.63
+  <strong>B.Tech, Computer Science & Engineering (Artificial Intelligence)</strong><br>
+  Noida Institute of Engineering & Technology &nbsp;|&nbsp; Batch 2022-26 &nbsp;|&nbsp; CGPA: 8.63
 </p>
 
 <!-- Badges -->
@@ -31,7 +31,7 @@
 
 ## 👤 About Me
 
-Fresher Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Built three end-to-end analytics projects covering payment fraud detection, customer churn segmentation, and workforce trend analysis — each grounded in real datasets with verified findings. Two months of industry experience at Ethara AI (Gurugram) evaluating LLM outputs across multiple models at scale.
+Fresher Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Built three end-to-end analytics projects covering payment fraud detection, customer churn segmentation, and workforce trend analysis; each grounded in real datasets with verified findings. Two months of industry experience at Ethara AI (Gurugram) evaluating LLM outputs across multiple models at scale.
 
 Currently open to **Data Analyst** and **Business Analyst** roles across Noida, Gurugram, Bengaluru, Mumbai, and Chennai.
 
@@ -73,7 +73,7 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 ## 💼 Experience
 
-### LLM Post-Training Intern — Data Analysis & Model Evaluation
+### LLM Post-Training Intern, Data Analysis & Model Evaluation
 **Ethara AI &nbsp;|&nbsp; Gurugram &nbsp;|&nbsp; Feb 2026 to Apr 2026**
 
 - Rated **300+ LLM outputs** on instruction following, truthfulness, prompt adherence, and verbosity across 5 project types including STEM reasoning at JEE Advanced level; daily output scaled from **20 to 50 tasks**
@@ -126,8 +126,8 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 | Award | Details | Year |
 |---|---|---|
-| **1st Place — Start-Up Arena, NIT Trichy** | Ranked 1st among 80-100 teams (300+ participants); qualified for national finale | 2026 |
-| **INSPIRE Scholarship — Government of India** | Awarded to top 1% in Class 12 board exams nationwide | 2021 |
+| **1st Place, Start-Up Arena, NIT Trichy** | Ranked 1st among 80-100 teams (300+ participants); qualified for national finale | 2026 |
+| **INSPIRE Scholarship, Government of India** | Awarded to top 1% in Class 12 board exams nationwide | 2021 |
 
 ---
 
