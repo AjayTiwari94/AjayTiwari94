@@ -29,7 +29,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 Fresher Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. Built three end-to-end analytics projects covering payment fraud detection, customer churn segmentation, and workforce trend analysis; each grounded in real datasets with verified findings. Two months of industry experience at Ethara AI (Gurugram) evaluating LLM outputs across multiple models at scale.
 
@@ -37,7 +37,7 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Querying**
 
@@ -71,7 +71,7 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### LLM Post-Training Intern, Data Analysis & Model Evaluation
 **Ethara AI &nbsp;|&nbsp; Gurugram &nbsp;|&nbsp; Feb 2026 to Apr 2026**
@@ -81,7 +81,7 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### [Banking Transaction & Customer Risk Analysis](https://github.com/AjayTiwari94/Banking-Customer-Risk-Transaction-Analysis)
 
@@ -131,7 +131,7 @@ Currently open to **Data Analyst** and **Business Analyst** roles across Noida, 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
