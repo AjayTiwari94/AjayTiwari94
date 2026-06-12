@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  B.Tech — Computer Science & Engineering (Artificial Intelligence)<br>
+  B.Tech - Computer Science & Engineering (Artificial Intelligence)<br>
   Noida Institute of Engineering & Technology &nbsp;|&nbsp; Batch 2022–26 &nbsp;|&nbsp; CGPA: 8.63
 </p>
 
